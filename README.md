@@ -10,4 +10,4 @@
    https://marcusvbmoreira.github.io/JS_Basico/aula_3/index
 
 ## Aula condicional e retorno (IMC):
-  https://marcusvbmoreira.github.io/JS_Basico/condicional_retorno/index.html
+  https://marcusvbmoreira.github.io/JS_Basico/condicional_retorno/index
