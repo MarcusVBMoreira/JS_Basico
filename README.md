@@ -11,3 +11,6 @@
 
 ## Aula condicional e retorno (IMC):
   https://marcusvbmoreira.github.io/JS_Basico/condicional_retorno/index
+
+## Aula laço de repetição:
+  https://marcusvbmoreira.github.io/JS_Basico/laco_de_repeticao/index
