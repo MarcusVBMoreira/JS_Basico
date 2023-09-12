@@ -5,27 +5,24 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Document</title>
-        
+        <link rel="stylesheet" href="estilo.css">
     </head>
     <body>
-
-        <form name="imcForm" id="imcForm" action="#">
-            <p>
-                Altura <br>
-                <input type="text" id="altura" name="altura">
-            </p>
-            <p>
-                Peso <br>
-                <input type="text" id="peso" name="peso">
-            </p>
-            <p>
-                <input type="submit" value="Calcular" name="Enviar" onclick="calcular_imc(event)">
-            </p>
-
-            <div id="resul"></div>
-        </form>
-
+        <div class="container">
+            <form name="imcForm" class="forms" id="imcForm" action="#">
+                <p>
+                    Altura <br>
+                    <input type="text" id="altura" name="altura">
+                </p>
+                <p>
+                    Peso <br>
+                    <input type="text" id="peso" name="peso">
+                </p>
+                <input type="submit" value="Calcular" class="btn" name="Enviar" onclick="calcular_imc(event)">
+    
+                <div id="resul"></div>
+            </form>
+        </div>
         <script src="imc2.js"></script>
-
     </body>
 </html>
