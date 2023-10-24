@@ -5,13 +5,19 @@
 .container{
     width: 80%;
 }
-
+.menu{
+    background-color: rgb(185, 134, 134);
+}
 body{
     background-color: beige;
 }
 p{
    font-size: 15px;
    font-style:italic;
+}
+.titulo_menu{
+    text-align: center;
+    padding: 2%;
 }
 .titulo{
     text-align: center;
