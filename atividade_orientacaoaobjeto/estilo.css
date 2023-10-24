@@ -1,3 +1,52 @@
 .formulário{
     display: flex;
 }
+
+.container{
+    width: 80%;
+}
+
+body{
+    background-color: beige;
+}
+p{
+   font-size: 15px;
+   font-style:italic;
+}
+.titulo{
+    text-align: center;
+    margin-top: 2%;
+}
+.explicacao{
+    margin-top: 2%;
+}
+.formulario{
+    text-align: center;
+    display: flex;
+}
+.person_form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+    align-items: center;
+}
+.item_form{
+    width: 50%;
+}
+.resultado{
+    margin: 2%;
+    background-color: rgb(199, 207, 207);
+    text-align: center;
+    width: 40%;
+}
+.resultado_{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.cadastro_pessoa{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
