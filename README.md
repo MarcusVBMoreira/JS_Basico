@@ -16,4 +16,4 @@
   https://marcusvbmoreira.github.io/JS_Basico/laco_de_repeticao/index
 
 ## Aula orientação a objeto:
-  https://marcusvbmoreira.github.io/JS_Basico/aula_orientacaoaobjeto/index
+  https://marcusvbmoreira.github.io/JS_Basico/atividade_orientacaoaobjeto/index
